@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/chiss7.github.io/personal-portfolio/static/css/main.5dfaac37.css",
-    "main.js": "/chiss7.github.io/personal-portfolio/static/js/main.30d93e8b.js",
-    "static/media/bg-hero-large.jpg": "/chiss7.github.io/personal-portfolio/static/media/bg-hero-large.8b0ba76dc9e672835fb3.jpg",
-    "index.html": "/chiss7.github.io/personal-portfolio/index.html",
-    "main.5dfaac37.css.map": "/chiss7.github.io/personal-portfolio/static/css/main.5dfaac37.css.map",
-    "main.30d93e8b.js.map": "/chiss7.github.io/personal-portfolio/static/js/main.30d93e8b.js.map"
+    "main.css": "/personal-portfolio/static/css/main.5dfaac37.css",
+    "main.js": "/personal-portfolio/static/js/main.2db4a3d6.js",
+    "static/media/bg-hero-large.jpg": "/personal-portfolio/static/media/bg-hero-large.8b0ba76dc9e672835fb3.jpg",
+    "index.html": "/personal-portfolio/index.html",
+    "main.5dfaac37.css.map": "/personal-portfolio/static/css/main.5dfaac37.css.map",
+    "main.2db4a3d6.js.map": "/personal-portfolio/static/js/main.2db4a3d6.js.map"
   },
   "entrypoints": [
     "static/css/main.5dfaac37.css",
-    "static/js/main.30d93e8b.js"
+    "static/js/main.2db4a3d6.js"
   ]
 }
